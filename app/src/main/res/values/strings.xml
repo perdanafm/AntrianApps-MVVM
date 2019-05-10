@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Antrian Apps</string>
+    <string name="no_antrian_saat_ini">No Antrian Saat Ini</string>
+    <string name="next">Next</string>
+    <string name="no_antrian_anda">No Antrian Anda</string>
+    <string name="daftar_antrian">Daftar Antrian</string>
+    <string name="tambah_antrian">Tambah Antrian</string>
+    <string name="lihat_antrian">Lihat Antrian</string>
+    <string name="simpan">Simpan</string>
+    <string name="no_hp">No Hp</string>
+    <string name="alamat">Alamat</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="clear_antrian">Clear Antrian</string>
+</resources>
